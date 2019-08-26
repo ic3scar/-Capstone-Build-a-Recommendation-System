@@ -6,5 +6,6 @@ all he/she needs to know. The comments should usually include at least:
 
 PROJECT TITLE: "Java Programming: Build a Recommendation System" Capstone project
 PURPOSE OF PROJECT: To demonstrate basic concept of object-oriented programming and get familiar with Java
-VERSION or DATE: Version 1 (Coursework for first 2 weeks)
+VERSION or DATE: Version 1 (Coursework for first 2 weeks)  
 
+Main classes are: MovieRunnerWithFilters.class and MovieRunnerAverage.class
